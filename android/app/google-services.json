@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511525941987",
+    "project_id": "social-media-fd388",
+    "storage_bucket": "social-media-fd388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511525941987:android:c4302a7a4f13254adb8bd6",
+        "android_client_info": {
+          "package_name": "com.alexs.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511525941987-332dfahdhphg1bdt6lm2ajr4gcr3mjns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9qL_Onne3Pmk8RUzPWQpHmlmrsviY1N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511525941987-332dfahdhphg1bdt6lm2ajr4gcr3mjns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
