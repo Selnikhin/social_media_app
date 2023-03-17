@@ -1,16 +1,20 @@
 # social_media_app
 
-A new Flutter project.
+Приложение с использованием
+1. firebase
+2. Bloc
+создание двухсторонего чата (данные хранятся в firebase)
+имеется страница аунтификации firebase_auth 
+Возможность опобликовывать посты. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Используются зависимости:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. firebase_core: ^2.4.1
+2.  firebase_auth: ^4.2.5
+3.  bloc: ^8.1.0
+4.  flutter_bloc: ^8.1.1
+5. equatable: ^2.0.5
+6. cloud_firestore: ^4.3.1
+7. image_picker: ^0.8.6
+8.  firebase_storage: ^11.0.10
